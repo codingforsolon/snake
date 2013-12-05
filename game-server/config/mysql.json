@@ -1,0 +1,17 @@
+{
+	"development": {
+	  "host" : "127.0.0.1",
+		"port" : "3306",
+		"database" : "slot_machine",
+		"user" : "root",
+		"password" : "123"
+	},
+
+	"production": {
+	  "host" : "127.0.0.1",
+		"port" : "3306",
+		"database" : "slot_machine",
+		"user" : "root",
+		"password" : "123"
+	}
+}
