@@ -1,4 +1,4 @@
-var pomelo = require('pomelo');//hello world
+var pomelo = require('pomelo');//hello world pomelo
 var instanceManager = require('./app/services/instanceManager');
 //var dataApi = require('./app/util/dataApi');
 var routeUtil = require('./app/util/routeUtil');
